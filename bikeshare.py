@@ -1,3 +1,6 @@
+#### Code for udactiy bike share project
+## Author: Ingo Paschke
+
 import time
 from datetime import datetime
 import pandas as pd
