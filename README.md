@@ -9,7 +9,7 @@ Course: Udacity Programming for Data Science with Python - Introduction to Pytho
 Project: Project: Explore US Bikeshare Data
 
 ### Description
-Python script to explore some descriptive statistics of bikeshare data for 3 major cities in the US. 
+Python script to explore some descriptive statistics of bikeshare data for three major cities in the US. 
 Prerequisites:
 - To access those data, these have to be in the same folder in the script. They are not provided with this script. Please refer to the udacity course instructions to download them.
 - Python 3.x
