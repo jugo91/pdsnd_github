@@ -1,3 +1,6 @@
+#### Code for udactiy bike share project
+## Author: Ingo Paschke
+## based on code provided by udacity
 import time
 from datetime import datetime
 import pandas as pd
@@ -7,6 +10,8 @@ import os
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
+
+### function definitions
 
 def get_filters():
     """
