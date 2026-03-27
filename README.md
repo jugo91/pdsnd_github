@@ -20,7 +20,7 @@ Additional Data files (new_york_city.csv) are required
 
 ### Files used
 bikeshare.py
-Additional Data files (new_york_city.csv) are required
+Additional Data files (new_york_city.csv, chicago.csv and washington.csv) are required
 
 ### Credits
 - I used the script mock-up initially provided by Udacity.
